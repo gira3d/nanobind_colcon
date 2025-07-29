@@ -1,0 +1,6 @@
+{
+  "name": "nanobind_colcon",
+  "dependencies": {},
+  "type": "cmake",
+  "hooks": []
+}
